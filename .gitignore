@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Arduino
+*.hex
+*.elf
+build/
+__pycache__/
+
+# Python
+venv/
+.env
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Assets (user-created proof photos)
+# assets/*.jpg
+# assets/*.png
+
+# Logs
+*.log
