@@ -1,0 +1,11 @@
+# LED-Entropy: Python Dependencies
+# Install in a virtual environment: pip install -r requirements.txt
+
+# OpenCV: camera capture, frame differencing, image processing
+opencv-python==4.9.0.80
+
+# NumPy: efficient matrix operations, pixel array manipulation
+numpy==1.26.4
+
+# Note: hashlib and struct are Python standard library modules.
+# argparse, os, sys, time, datetime are also standard library.
