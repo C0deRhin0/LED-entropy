@@ -1,4 +1,4 @@
-// Phase 0 Day 2 - Baseline LED Mapping
+// Baseline LED Mapping — Sequential Toggle
 // Sequentially toggles each LED ON then OFF before advancing.
 
 const int kLedPins[] = {3, 5, 6, 9, 10};
